@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+<!-- Heavy Mace -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_MeleeWeapon_HeavyMace</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Dane Axe -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_MeleeWeapon_DaneAxe</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Claymore -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_MeleeWeapon_Claymore</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Halberd -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_MeleeWeapon_Halberd</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Standard -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_MeleeWeapon_Standard</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Pike -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_MeleeWeapon_Pike</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Shortsword -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_MeleeWeapon_Shortsword</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Flail -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_MeleeWeapon_Flail</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<!-- Throwing Axe -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_ThrowingAxe</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Thrown Axe (Projectile) -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2V_ThrowingAxe_Thrown</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Arquebus -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Gun_Arquebus</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Arquebus Bullet -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Bullet_Arquebus</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Hand Cannon -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Gun_HandCannon</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Hand Cannon Bullet -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Bullet_HandCannon</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Arbalest -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Arbalest</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Arbalest Bolt -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Bolt_Arbalest</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Warbow -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Warbow</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Warbow Arrow -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Arrow_Warbow</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<!-- Heavy Plate Helmet -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_PlateHelmetHeavy</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Jester Hat -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_JesterHat</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Dame Hat -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_DameHat</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- King's Crown -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_KingsCrown</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Plague Mask -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_PlagueMask</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Heavy Leather Helmet -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_HeavyLeatherHelmet</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Leather Helmet -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_LeatherHelmet</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Padded Helmet -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_PaddedHelmet</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Chaperon -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_Chaperon</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Cap -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_Cap</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<!-- Torch Belt -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_TorchBelt</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Thrown Torch (Projectile) -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Proj_GrenadeTorch</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<!-- Heavy Plate Armor -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_PlateArmorHeavy</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Jester Outfit -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_JesterOutfit</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Dame Dress -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_DameDress</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- King's Robes -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_KingsRobes</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Heavy Leather Armor -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_HeavyLeatherArmor</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Leather Armor -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_LeatherArmor</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Tabard -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_Tabard</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Padded Armor -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_PaddedArmor</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Mantle -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Apparel_Mantle</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<!-- Heater Shield -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Shield_Heater</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Round Shield -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEM2_Shield_Round</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+
+    </operations>
+</Operation>
+
+</Patch>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+<!-- Chunk -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFET_Chunk</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Stake -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFET_Stake</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<!-- Throwspikes -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFET_Throwspikes</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<!-- Light Tribalwear -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFET_Apparel_TribalLight</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Heavy Tribalwear -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFET_Apparel_TribalHeavy</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- War Tribalwear -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFET_Apparel_TribalWar</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+
+
+
+
+    </operations>
+</Operation>
+
+</Patch>

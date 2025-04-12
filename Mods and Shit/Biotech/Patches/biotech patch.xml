@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+<!-- Toxbomb Launcher -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Gun_ToxbombLauncher</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Tox Grenades -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Weapon_GrenadeTox</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Flamebow -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Flamebow</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<!-- Airwire Headset -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_AirwireHeadset</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Array Headset -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_ArrayHeadset</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Integrator Headset -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_IntegratorHeadset</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Mechcommander Helmet -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_ArmorHelmetMechCommander</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Mechlord Helmet -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_ArmorHelmetMechlordHelmet</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Gas Mask -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_GasMask</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Cloth Mask -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_ClothMask</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<!-- Heavy Shield Unit -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_HeavyShield</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<!-- Control Pack -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_PackControl</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Bandwidth Pack -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_PackBandwidth</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Tox Pack -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_PackTox</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<!-- Mechlord Suit -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_MechlordSuit</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Heavy Bandolier -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_Bandolier</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Sash -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Apparel_Sash</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+
+
+    </operations>
+</Operation>
+
+</Patch>

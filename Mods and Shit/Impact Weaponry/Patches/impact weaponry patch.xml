@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+<!-- Impact Rifle -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>DV_ImpactRifle</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Impact Slugger -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>DV_ImpactSlugger</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Impact Stubber -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>DV_ImpactStubber</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Impact Cannon -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>DV_ImpactCannon</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Impact Slinger -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>DV_ImpactSlinger</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Impact Sniper -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>DV_ImpactSniper</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Chainsword -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>DV_Chainsword</thingDef>
+            <techLevelNoResearch>Spacer</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+
+
+
+
+
+
+
+
+
+    </operations>
+</Operation>
+
+</Patch>

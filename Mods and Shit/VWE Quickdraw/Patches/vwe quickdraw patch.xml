@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+<!-- Automatic Pistol -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_Gun_AutomaticPistol</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Bullpup Rifle -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_Gun_BullpupRifle</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Bullpup DMR -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_Gun_BullpupDMR</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- PDW -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_Gun_PDW</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Derringer -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWEFT_Gun_Derringer</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Lever-Action Shotgun -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWEFT_Gun_LeverActionShotgun</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+
+
+    </operations>
+</Operation>
+
+</Patch>

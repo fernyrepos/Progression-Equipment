@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+<!-- Heavy Club -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_MeleeWeapon_HeavyClub</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Light Club -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_MeleeWeapon_LightClub</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Tribal Axe -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_MeleeWeapon_TribalAxe</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Shiv -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_MeleeWeapon_Shiv</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<!-- Sling -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_Sling</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Throwing Shards -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_Throwing_Shards</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Fire Bombs -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_Weapon_FireBomb</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+
+    </operations>
+</Operation>
+
+</Patch>

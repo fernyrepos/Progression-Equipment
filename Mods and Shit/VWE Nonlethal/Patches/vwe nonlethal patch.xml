@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+<!-- Tear Gas Grenade -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_TearGasGrenade</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Taser Gun -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_Gun_Taser</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Non-lethal Pistol -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_Gun_RubberBulletPistol</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Dart Gun -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_Gun_DartGun</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Tear Gas Launcher -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_Gun_TearGasLauncher</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Stun Baton -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VWE_MeleeWeapon_StunBaton</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Industrial</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+    </operations>
+</Operation>
+
+</Patch>

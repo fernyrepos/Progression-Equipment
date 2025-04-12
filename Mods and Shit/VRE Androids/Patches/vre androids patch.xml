@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<!-- Androids compat with tech background -->
+      <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/VREAndroids.AndroidSettings[defName="VREA_AndroidSettings"]/allowedTraits</xpath>
+        <value>
+            <li>TechBackground</li>
+        </value>
+      </Operation>
+</Patch>

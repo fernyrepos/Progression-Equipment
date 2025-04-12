@@ -1,0 +1,74 @@
+<loadFolders>
+  <v1.5>
+    <li>/</li>
+    <li>1.5</li>
+    <li IfModActive="Ludeon.Rimworld.Royalty">Mods and Shit/Royalty</li>
+    <li IfModActive="Ludeon.Rimworld.Ideology">Mods and Shit/Ideology</li>
+    <li IfModActive="Ludeon.Rimworld.Biotech">Mods and Shit/Biotech</li>
+    <li IfModActive="Ludeon.Rimworld.Anomaly">Mods and Shit/Anomaly</li>
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods and Shit/VFE Settlers</li>
+    <li IfModActive="OskarPotocki.VFE.Classical">Mods and Shit/VFE Classical</li>
+    <li IfModActive="VanillaExpanded.VARME">Mods and Shit/VE Armour</li>
+    <li IfModActive="VanillaExpanded.vwe">Mods and Shit/VE Weapons</li>
+    <li IfModActive="VanillaExpanded.vweq">Mods and Shit/VWE Quickdraw</li>
+    <li IfModActive="VanillaExpanded.vwel">Mods and Shit/VWE Laser</li>
+    <li IfModActive="VanillaExpanded.vweg">Mods and Shit/VWE Grenades</li>
+    <li IfModActive="Mlie.HaloRimworldPsychicPulseArmory">Mods and Shit/Halo Pulse Weaponry</li>
+    <li IfModActive="VanillaExpanded.vwehw">Mods and Shit/VWE Heavy</li>
+    <li IfModActive="VanillaExpanded.vwec">Mods and Shit/VWE Coilguns</li>
+    <li IfModActive="VanillaExpanded.vwems">Mods and Shit/VWE Makeshift</li>
+    <li IfModActive="VanillaExpanded.vwenl">Mods and Shit/VWE Nonlethal</li>
+    <li IfModActive="VanillaExpanded.vweft">Mods and Shit/VWE Frontier</li>
+    <li IfModActive="VanillaExpanded.vwetb">Mods and Shit/VWE Tribal</li>
+    <li IfModActive="oskarpotocki.vfe.pirates">Mods and Shit/VFE Pirates</li>
+    <li IfModActive="oskarpotocki.vfe.empire">Mods and Shit/VFE Empire</li>
+    <li IfModActive="det.venators">Mods and Shit/Dets Venators</li>
+    <li IfModActive="oskarpotocki.vfe.deserters">Mods and Shit/VFE Deserters</li>
+    <li IfModActive="oskarpotocki.vfe.tribals">Mods and Shit/VFE Tribals</li>
+    <li IfModActive="vanillaexpanded.vpsycastse">Mods and Shit/VE Psycasts</li>
+    <li IfModActive="xrushha.animagear">Mods and Shit/Anima Gear</li>
+    <li IfModActive="ushanka.biologicalwarfare">Mods and Shit/Biological Warfare</li>
+    <li IfModActive="el.ionweaponry">Mods and Shit/Ion Weaponry</li>
+    <li IfModActive="sirvan.eltexweaponry">Mods and Shit/Eltex Weaponry</li>
+    <li IfModActive="det.spacerarsenal">Mods and Shit/Spacer Arsenal</li>
+    <li IfModActive="det.vanillaarsenal">Mods and Shit/Vanilla Arsenal</li>
+    <li IfModActive="detvisor.pulseweaponry">Mods and Shit/Pulse Weaponry</li>
+    <li IfModActive="vanillaexpanded.vwebf">Mods and Shit/VWE Bioferrite</li>
+    <li IfModActive="detvisor.impactweaponry">Mods and Shit/Impact Weaponry</li>
+    <li IfModActive="prestigespecialistarmours.final">Mods and Shit/Prestige Armor Rework</li>
+    <li IfModActive="det.phaseweaponry">Mods and Shit/Phase Weaponry</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="sarg.alphamechs">Mods and Shit/Alpha Mechs</li>
+    <li IfModActive="kentington.saveourship2">Mods and Shit/SOS2</li>
+    <li IfModActive="sindre0830.rimnauts2">Mods and Shit/Rimnauts 2</li>
+    <li IfModActive="vanillaexpanded.vpersonaweaponse">Mods and Shit/VE Persona Weapons</li>
+    <li IfModActive="mosi.FirefoamThings">Mods and Shit/Firefoam Things</li>
+    <li IfModActive="hlx.UltratechAlteredCarbon">Mods and Shit/Altered Carbon</li>
+    <li IfModActive="Rooboid.Minotaur">Mods and Shit/Roo Minotaurs</li>
+    <li IfModActive="Rooboid.Minotaur.Expanded">Mods and Shit/Roo Minotaurs Expanded</li>
+    <li IfModActive="Rooboid.Satyr">Mods and Shit/Roo Satyrs</li>
+    <li IfModActive="Rooboid.SatyrFaun.Expanded">Mods and Shit/Roo SF Expanded</li>
+    <li IfModActive="vanillaexpanded.vappe">Mods and Shit/VE Apparel</li>
+    <li IfModActive="vanillaexpanded.vanomalyeinsanity">Mods and Shit/VAE Insanity</li>
+    <li IfModActive="xmb.ancienturbanruins.mo">Mods and Shit/Ancient Urban Ruins</li>
+    <li IfModActive="vanillaquestsexpanded.generator">Mods and Shit/VQE Generator</li>
+    <li IfModActive="elsov.highborn">Mods and Shit/Highborn</li>
+    <li IfModActive="hartarok.dresses">Mods and Shit/Dresses in the Rim</li>
+    <li IfModActive="det.keshig">Mods and Shit/Dets Keshig</li>
+    <li IfModActive="zal.bananasuit">Mods and Shit/Banana Suit</li>
+    <li IfModActive="dankpyon.medieval.overhaul.house.roxmont">Mods and Shit/House Roxmont</li>
+    <li IfModActive="Arisher.Medieval.Tailor">Mods and Shit/Medieval Tailor</li>
+    <li IfModActive="gunmar.victorianeraapparels">Mods and Shit/Victorian Apparels</li>
+    <li IfModActive="oskarpotocki.vfe.medieval2">Mods and Shit/VFE Medieval 2</li>
+    <li IfModActive="vanillaracesexpanded.android">Mods and Shit/VRE Androids</li>
+    <li IfModActive="GoGaTio.MechanoidUpgrades.Archotech">Mods and Shit/MU Archotech</li>
+    <li IfModActive="VanillaExpanded.VMemesE">Mods and Shit/VE Memes</li>
+    <li IfModActive="rimsenal.EVP">Mods and Shit/Rimsenal EVP</li>
+    <li IfModActive="rimsenal.core">Mods and Shit/Rimsenal Core</li>
+    <li IfModActive="rimsenal.federation">Mods and Shit/Rimsenal Federation</li>
+    <li IfModActive="rimsenal.feral">Mods and Shit/Rimsenal Feral</li>
+    <li IfModActive="Rimsenal.Askbarn">Mods and Shit/Rimsenal Askbarn</li>
+    <li IfModActive="Rimsenal.Harana">Mods and Shit/Rimsenal Harana</li>
+    <li IfModActive="vanillaquestsexpanded.cryptoforge">Mods and Shit/VQE Cryptoforge</li>
+  </v1.5>
+</loadFolders>

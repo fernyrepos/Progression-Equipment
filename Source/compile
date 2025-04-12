@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+mcs -target:library -out:../1.5/Assemblies/CTB-AT-Equipment.dll -lib:../Assemblies,../../../RimWorldLinux_Data/Managed -r:0Harmony.dll,TechBackground.dll,Arcane_Technology.dll,Assembly-CSharp.dll,UnityEngine.CoreModule.dll -recurse:'*.cs'
+

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+    <!-- Spatha -->
+    <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+        <itemLevelRules>
+            <li>
+                <thingDef>VFEC_MeleeWeapon_Spatha</thingDef>
+                <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                <techLevelResearched>Neolithic</techLevelResearched>
+            </li>
+        </itemLevelRules>
+    </li>
+
+    <!-- Dagger -->
+    <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+        <itemLevelRules>
+            <li>
+                <thingDef>VFEC_MeleeWeapon_Dagger</thingDef>
+                <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                <techLevelResearched>Neolithic</techLevelResearched>
+            </li>
+        </itemLevelRules>
+    </li>
+
+    <!-- Javelin -->
+    <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+        <itemLevelRules>
+            <li>
+                <thingDef>VFEC_Javelin</thingDef>
+                <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                <techLevelResearched>Neolithic</techLevelResearched>
+            </li>
+        </itemLevelRules>
+    </li>
+
+    <!-- Thrown Javelin -->
+    <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+        <itemLevelRules>
+            <li>
+                <thingDef>VFEC_Javelin_Thrown</thingDef>
+                <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                <techLevelResearched>Neolithic</techLevelResearched>
+            </li>
+        </itemLevelRules>
+    </li>
+
+    <!-- Scorpion -->
+    <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+        <itemLevelRules>
+            <li>
+                <thingDef>VFEC_Weapon_Scorpion</thingDef>
+                <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                <techLevelResearched>Neolithic</techLevelResearched>
+            </li>
+        </itemLevelRules>
+    </li>
+
+    <!-- Scorpion Arrow -->
+    <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+        <itemLevelRules>
+            <li>
+                <thingDef>VFEC_Arrow_Scorpion</thingDef>
+                <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                <techLevelResearched>Neolithic</techLevelResearched>
+            </li>
+        </itemLevelRules>
+    </li>
+
+    <!-- Legionnaire Helmet -->
+    <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+        <itemLevelRules>
+            <li>
+                <thingDef>VFEC_Apparel_LegionnaireHelmet</thingDef>
+                <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                <techLevelResearched>Neolithic</techLevelResearched>
+            </li>
+        </itemLevelRules>
+    </li>
+
+    <!-- Centurion Helmet -->
+    <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+        <itemLevelRules>
+            <li>
+                <thingDef>VFEC_Apparel_CenturionHelmet</thingDef>
+                <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                <techLevelResearched>Neolithic</techLevelResearched>
+            </li>
+        </itemLevelRules>
+    </li>
+
+    <!-- Legionnaire Armor -->
+    <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+        <itemLevelRules>
+            <li>
+                <thingDef>VFEC_Apparel_LegionnaireArmor</thingDef>
+                <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                <techLevelResearched>Neolithic</techLevelResearched>
+            </li>
+        </itemLevelRules>
+    </li>
+
+    <!-- Centurion Armor -->
+    <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+        <itemLevelRules>
+            <li>
+                <thingDef>VFEC_Apparel_CenturionArmor</thingDef>
+                <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                <techLevelResearched>Neolithic</techLevelResearched>
+            </li>
+        </itemLevelRules>
+    </li>
+
+    <!-- Heavy Shield -->
+    <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+        <itemLevelRules>
+            <li>
+                <thingDef>VFEC_Shield_Heavy</thingDef>
+                <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                <techLevelResearched>Neolithic</techLevelResearched>
+            </li>
+        </itemLevelRules>
+    </li>
+
+    <!-- Toga -->
+    <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+        <itemLevelRules>
+            <li>
+                <thingDef>VFEC_Toga</thingDef>
+                <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                <techLevelResearched>Neolithic</techLevelResearched>
+            </li>
+        </itemLevelRules>
+    </li>
+
+<!-- Wreath -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>VFEC_Wreath</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+    </operations>
+</Operation>
+
+</Patch>

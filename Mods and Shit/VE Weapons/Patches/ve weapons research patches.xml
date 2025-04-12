@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+                <Operation Class="PatchOperationReplace">
+                    <xpath>Defs/ResearchProjectDef[defName="VWE_Longbow"]/description</xpath>
+                    <value>
+                        <description>Craft longbows, a medieval equivalent to the sniper rifle.</description>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="VWE_Bow_Long"]/description</xpath>
+                    <value>
+                        <description>Longbow is a massive long range medieval weapon, capable of firing a powerful arrow over extremely long distances.\n\nArrows fired from this bow fly overhead, avoiding getting stopped by obstacles.</description>
+                    </value>
+                </Operation>
+</Patch>

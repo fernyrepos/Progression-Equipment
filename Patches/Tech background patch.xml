@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Colonist Tech Background</li>
+        </mods>
+		
+        <match Class="PatchOperationSequence">
+            <operations>
+
+     		
+
+			<li Class="PatchOperationReplace">
+			<xpath>Defs/TraitDef[defName="TechBackground"]/degreeDatas</xpath>
+			<value>
+				<degreeDatas>
+					<li>
+						<label>Pre-industrial</label>
+						<description>{PAWN_nameDef} has grown in a pre-industrial society, {PAWN_pronoun} won't be able to handle complex machinery.</description>
+						<degree>0</degree>
+					</li>
+					<li>
+						<label>Industrial</label>
+						<description>{PAWN_nameDef} has grown in an industrial society. {PAWN_pronoun} is capable of using many technologies and work with machinery, but not the more advanced kind required for space flight.</description>
+						<degree>1</degree>
+					</li>
+					<li>
+						<label>Spacer</label>
+						<description>{PAWN_nameDef} has grown in a technologically advanced society, {PAWN_pronoun} would be familiar with pretty much any technology found on a rimworld.</description>
+						<degree>2</degree>
+					</li>
+					<li>
+						<label>Transcendent</label>
+						<description>The past of {PAWN_nameDef} is shrouded in mystery, {PAWN_pronoun} appears to have understanding of nature that goes beyond even the most advanced glitterworlds.</description>
+						<degree>3</degree>
+					</li>
+				</degreeDatas>
+			</value>
+			</li>
+
+</operations>
+</match>
+</Operation>
+
+</Patch>

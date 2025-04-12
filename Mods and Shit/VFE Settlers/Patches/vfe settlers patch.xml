@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+        <!-- Double-Action Revolver -->
+        <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+            <itemLevelRules>
+                <li>
+                    <thingDef>VFES_Gun_DoubleActionRevolver</thingDef>
+                    <techLevelNoResearch>Industrial</techLevelNoResearch>
+                    <techLevelResearched>Industrial</techLevelResearched>
+                </li>
+            </itemLevelRules>
+        </li>
+
+        <!-- Double-Barreled Shotgun -->
+        <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+            <itemLevelRules>
+                <li>
+                    <thingDef>VFES_Gun_DoubleBarreledShotgun</thingDef>
+                    <techLevelNoResearch>Industrial</techLevelNoResearch>
+                    <techLevelResearched>Industrial</techLevelResearched>
+                </li>
+            </itemLevelRules>
+        </li>
+
+        <!-- Hunting Rifle -->
+        <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+            <itemLevelRules>
+                <li>
+                    <thingDef>VFES_Gun_HuntingRifle</thingDef>
+                    <techLevelNoResearch>Industrial</techLevelNoResearch>
+                    <techLevelResearched>Industrial</techLevelResearched>
+                </li>
+            </itemLevelRules>
+        </li>
+
+        <!-- Gatling Gun -->
+        <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+            <itemLevelRules>
+                <li>
+                    <thingDef>VFES_Gun_Gatling</thingDef>
+                    <techLevelNoResearch>Industrial</techLevelNoResearch>
+                    <techLevelResearched>Industrial</techLevelResearched>
+                </li>
+            </itemLevelRules>
+        </li>
+
+        <!-- Dynamite -->
+        <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+            <itemLevelRules>
+                <li>
+                    <thingDef>VFES_Weapon_GrenadeDynamite</thingDef>
+                    <techLevelNoResearch>Industrial</techLevelNoResearch>
+                    <techLevelResearched>Industrial</techLevelResearched>
+                </li>
+            </itemLevelRules>
+        </li>
+
+        <!-- Dynamite Projectile -->
+        <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+            <itemLevelRules>
+                <li>
+                    <thingDef>VFES_Proj_Dynamite</thingDef>
+                    <techLevelNoResearch>Industrial</techLevelNoResearch>
+                    <techLevelResearched>Industrial</techLevelResearched>
+                </li>
+            </itemLevelRules>
+        </li>
+
+        <!-- Tomahawk -->
+        <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+            <itemLevelRules>
+                <li>
+                    <thingDef>VFES_Tomahawk</thingDef>
+                    <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                    <techLevelResearched>Neolithic</techLevelResearched>
+                </li>
+            </itemLevelRules>
+        </li>
+
+        <!-- Throwing Tomahawk Projectile -->
+        <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+            <itemLevelRules>
+                <li>
+                    <thingDef>VFES_Tomahawk_Thrown</thingDef>
+                    <techLevelNoResearch>Neolithic</techLevelNoResearch>
+                    <techLevelResearched>Neolithic</techLevelResearched>
+                </li>
+            </itemLevelRules>
+        </li>
+
+    </operations>
+</Operation>
+
+</Patch>
