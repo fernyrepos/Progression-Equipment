@@ -33,14 +33,28 @@ namespace CTB_AT_Equipment
 			
 			int pawn_tech_level = 0;
 			bool can = false;
-			
-			if (pawn.story.traits.HasTrait(def))
-			{
-				Trait tr = pawn.story.traits.GetTrait(def);
-				pawn_tech_level = tr.Degree;
-			}
-			
-			ItemLevelRule rule;
+
+            //if (pawn.story.traits.HasTrait(def))
+            //{
+            //	Trait tr = pawn.story.traits.GetTrait(def);
+            //	pawn_tech_level = tr.Degree;
+            //}
+
+            if (pawn.story?.traits?.HasTrait(def) ?? false)
+            {
+                Trait tr = pawn.story.traits.GetTrait(def);
+                if (tr != null)
+                {
+                    pawn_tech_level = tr.Degree;
+                }
+                else
+                {
+                    //optional else in case we want to log
+                    Log.Warning($"{pawn} - Null in pawn.story.traits.HasTrait(def)");
+                }
+            }
+
+            ItemLevelRule rule;
 			
 			// No special rules
 			if (!EquipmentRestrictions.itemList.ContainsKey(thingDef.defName)) return true;
