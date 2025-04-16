@@ -70,5 +70,9 @@
     <li IfModActive="Rimsenal.Askbarn">Mods and Shit/Rimsenal Askbarn</li>
     <li IfModActive="Rimsenal.Harana">Mods and Shit/Rimsenal Harana</li>
     <li IfModActive="vanillaquestsexpanded.cryptoforge">Mods and Shit/VQE Cryptoforge</li>
+    <li IfModActive="sierra.rf.medievaloverhaul">Mods and Shit/Rimfantasy</li>
+    <li IfModActive="addie.housevanilla">Mods and Shit/Rimfantasy Vanilla</li>
+    <li IfModActive="sierra.rf.housedoyle">Mods and Shit/Rimfantasy Doyle</li>
+    <li IfModActive="turkler.medievaloverhaul.arcanearchaeologists">Mods and Shit/Rimfantasy Archaeologists</li>
   </v1.5>
 </loadFolders>
