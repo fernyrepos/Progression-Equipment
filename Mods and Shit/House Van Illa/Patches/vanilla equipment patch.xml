@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+<!-- Battle Axes -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Addie_RimecrystalAxe</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Bows -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Addie_RimecrystalGreatbow</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Addie_Illan_WarBow</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Crossbows -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Addie_RimedCrossbow</thingDef>
+            <techLevelNoResearch>Medieval</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Daggers -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_RimecrystalDagger</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Side swords -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_Illan_MeleeWeapon_Sidesword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_Illan_MeleeWeapon_RimedSidesword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Arming swords -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_AncientIllan_ArmingSword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Longswords -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_RimecrystalSword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_Illan_MeleeWeapon_Longsword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_Illan_MeleeWeapon_RimedLongsword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Rapier -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_Illan_MeleeWeapon_IllanRapier</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_Illan_MeleeWeapon_RimedRapier</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Spears -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_RimecrystalSpear</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_Illan_MeleeWeapon_PikeStandard</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_AncientIllan_PikeStandard</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Staffs -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_RimecrystalStaff</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Frost Pots -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Addie_Weapon_PotFrost</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+    </operations>
+</Operation>
+
+</Patch>
