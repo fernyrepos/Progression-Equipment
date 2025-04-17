@@ -75,5 +75,6 @@
     <li IfModActive="sierra.rf.housedoyle">Mods and Shit/Rimfantasy Doyle</li>
     <li IfModActive="turkler.medievaloverhaul.arcanearchaeologists">Mods and Shit/Arcane Archaeologists</li>
     <li IfModActive="finch.blood">Mods and Shit/House Sanguine</li>
+    <li IfModActive="BotchJob.Profaned">Mods and Shit/Profaned</li>
   </v1.5>
 </loadFolders>
