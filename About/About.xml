@@ -96,6 +96,12 @@
         <li>JGH.GestateFPC</li>
         <li>Bonible.rimsenalfactions</li>
         <li>vanillaquestsexpanded.cryptoforge</li>
+    <li>finch.blood</li>
+    <li>sierra.rf.medievaloverhaul</li>
+    <li>addie.housevanilla</li>
+    <li>sierra.rf.housedoyle</li>
+    <li>turkler.medievaloverhaul.arcanearchaeologists</li>
+    <li>BotchJob.Profaned</li>
 			<!-- Dummy Loadafter logic to ensure this shit works in large modlists (I know this is stupid, i'm working on it) -->
     <li>zetrith.prepatcher</li>
     <li>brrainz.harmony</li>
@@ -937,10 +943,5 @@
     <li>ve.vanillachristmasexpanded</li>
     <li>zal.sibtl</li>
     <li>dankpyon.medieval.overhaul.house.roxmont</li>
-    <li>finch.blood</li>
-	<li>sierra.rf.medievaloverhaul</li>
-	<li>addie.housevanilla</li>
-	<li>sierra.rf.housedoyle</li>
-	<li>turkler.medievaloverhaul.arcanearchaeologists</li>
-	</loadAfter>
+    </loadAfter>
 </ModMetaData>
