@@ -374,6 +374,19 @@
     </itemLevelRules>
 </li>
 
+<!-- Pelt Coat -->
+<li Class"CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+		<itemLevelRules>
+				<li>
+						<thingDef>VAE_Apparel_PeltCoat</thingDef>
+						<techLevelNoResearch>Neolithic</techLevelNoResearch>
+						<techLevelResearched>Neolithic</techLevelResearched>
+				</li>
+		</itemLevelRules>
+</li>
+
+
+
 
 
     </operations>
