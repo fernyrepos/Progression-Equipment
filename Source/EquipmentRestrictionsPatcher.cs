@@ -12,7 +12,7 @@ namespace CTB_AT_Equipment
 	
 	    protected override bool ApplyWorker(XmlDocument xml)
 	    {   
-	        Log.Message("CTB_AT_Equipment: Patching equipment tech level requirements.");
+	        //Log.Message("CTB_AT_Equipment: Patching equipment tech level requirements.");
 	        foreach (ItemLevelRule item in itemLevelRules)
 	        {
 				//Log.Message("CTB_AT_Equipment Patching: " + item.thingDef + ", " + item.techLevelNoResearch + ", " + item.techLevelResearched);
