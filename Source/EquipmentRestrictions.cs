@@ -1,11 +1,8 @@
 using System.Collections.Generic;
-using Verse;
 
-namespace CTB_AT_Equipment
+namespace CTB_AT_Equipment;
+
+public static class EquipmentRestrictions
 {
-
-	public static class EquipmentRestrictions
-	{
-		public static Dictionary<string, ItemLevelRule> itemList = new Dictionary<string, ItemLevelRule>();
-	}
+	public static Dictionary<string, ItemLevelRule> itemList = new Dictionary<string, ItemLevelRule>();
 }
