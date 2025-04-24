@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+<!-- Tattered Undershirt -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>BotchJob_TatteredUndershirt</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Ragged Leg Wraps -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>BotchJob_RaggedLegwraps</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Tattered Cowl -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>BotchJob_TatteredCowl</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Profaned Cloak -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>BotchJob_ProfanedCloak</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Weathered Kettle Helmet -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>BotchJob_WeatheredKettleHelmet</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Weathered Chainmail Coif -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>BotchJob_WeatheredChainmailCoif</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Weathered Chainmail -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_WeatheredChainmail</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Weathered Pauldron -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_WeatheredPauldron</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Headhunter Bandages -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_HeadhunterBandages</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Headhunter Pauldron -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_HeadhunterPauldron</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Scourge Knight Helmet -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_ScourgeknightHelmet</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Scourge Knight Armor -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_ScourgeknightArmor</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Bone Crown -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_BoneCrown</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Gravetender Robes -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_GravetenderRobes</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Profaned Shield -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_ProfanedShield</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Profaned War Axe -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_ProfanedWarAxe</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Profaned Scimitar -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_ProfanedScimitar</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Profaned Shotel -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_ProfanedShotel</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Profaned Club -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_ProfanedClub</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Weathered Shortbow -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_WeatheredShortbow</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Scourge Knight Greatsword -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_ScourgeknightGreatsword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Grasping Dread Greatsword -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_GraspingDeadGreatsword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Scourge Knight Great Axe -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_ScourgeknightGreataxe</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Frostbound Great Axe -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_FrostboundGreataxe</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Profaned Scythe -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_ProfanedScythe</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Fading Soul Scythe -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_FadingSoulScythe</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Profaned Glaive -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_ProfanedGlaive</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Abyssal Glaive -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_AbyssalGlaive</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Profaned Staff -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_ProfanedStaff</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Bloodflame Staff -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>BotchJob_BloodflameStaff</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Profaned Greatbow -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>BotchJob_ProfanedGreatbow</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+  </li>
+  
+  <!-- Spectral Greatbow -->
+  <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>BotchJob_SpectralGreatbow</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+  </li>
+
+    </operations>
+</Operation>
+
+</Patch>

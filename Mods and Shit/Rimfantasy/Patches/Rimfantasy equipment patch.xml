@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+<!-- Battle Axes -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_EmeraldBattleAxe</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_RubyBattleAxe</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_SapphireBattleAxe</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Bows -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_EmeraldBow</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_RubyBow</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_SapphireBow</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Daggers -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_EmeraldDagger</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_RubyDagger</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_SapphireDagger</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Halberds -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_EmeraldHalberd</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_RubyHalberd</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_SapphireHalberd</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Rings -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_EmeraldRing</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_RubyRing</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_SapphireRing</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Longswords -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_EmeraldLongsword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_RubyLongsword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_SapphireLongsword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Spears -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_EmeraldSpear</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_RubySpear</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_SapphireSpear</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Staffs -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_EmeraldStaff</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_RubyStaff</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_SapphireStaff</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Wands -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_EmeraldWand</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_RubyWand</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_SapphireWand</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Warhammers -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_EmeraldWarHammer</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_RubyWarHammer</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_SapphireWarHammer</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+    </operations>
+</Operation>
+
+</Patch>

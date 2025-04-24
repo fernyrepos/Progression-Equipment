@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+<!-- Guns -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Ogam_RuneMusket</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Medieval</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Ogam_RuneMortar</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Medieval</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>Ogam_RunePistol</thingDef>
+            <techLevelNoResearch>Industrial</techLevelNoResearch>
+            <techLevelResearched>Medieval</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Longswords -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_AmberLongsword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Spears -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_AmberSpear</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_AmberBanner</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Staffs -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_AmberStaff</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Grimoire -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_AmberBook</thingDef>
+          <techLevelNoResearch>Medieval</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_EmeraldBook</thingDef>
+          <techLevelNoResearch>Medieval</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_RubyBook</thingDef>
+          <techLevelNoResearch>Medieval</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_SapphireBook</thingDef>
+          <techLevelNoResearch>Medieval</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Warhammers -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_AmberWarHammer</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Heater Shield -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_ShieldHeater_MagicalAcademy</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Cloak -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_Cloak</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_CloakB</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Guardian Helmet -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_RubyWOgam_GuardianHelmetarHammer</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Wizzard Hats -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_WizzardHatA</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_WizzardHatB</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Scout Armor -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_Scout_padded_armorA</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_Scout_padded_armorB</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Simple Cape -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_SimpleCapeA</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_SimpleCapeB</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Plate Armor -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_Caster_plate_armorA</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_Caster_plate_armorB</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Guardian Plate Armor -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_Guardian_plate_armor</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Royal Cape -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_RoyalCapeA</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_RoyalCapeB</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Royal Guard Plate Armor -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>Ogam_Royal_guard_plate_armorVarA</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+    </operations>
+</Operation>
+
+</Patch>

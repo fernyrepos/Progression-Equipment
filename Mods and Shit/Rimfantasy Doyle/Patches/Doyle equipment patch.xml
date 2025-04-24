@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+
+<!-- Axes -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_AmethystBattleAxe</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_MeleeWeapon_FightingAxe_Doyle</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_MeleeWeapon_Longaxe_Doyle</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Bows -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_RangedWeapon_Greatbow_Doyle</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_RangedWeapon_WarBow_Doyle</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_AmethystBow</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+</li>
+
+<!-- Daggers -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_AmethystDagger</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Halberds -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_AmethystHalberd</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Maces -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_MeleeWeapon_MorningStar_Doyle</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_MeleeWeapon_TwoHandedFlangedMace_Doyle</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Rings -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_Apparel_Ring_Amethyst</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_AmethystRing</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Swords -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_MeleeWeapon_ArmingSword_Doyle</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+  </li>
+  <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_MeleeWeapon_Greatsword_Doyle</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+  </li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_AmethystLongsword</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_AmethystRapier_Relic</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_AmethystBastardSword_Relic</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Spears -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_MeleeWeapon_FightingSpear_Doyle</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+  </li>
+  <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+    <itemLevelRules>
+        <li>
+            <thingDef>RF_MeleeWeapon_Pike_Doyle</thingDef>
+            <techLevelNoResearch>Neolithic</techLevelNoResearch>
+            <techLevelResearched>Neolithic</techLevelResearched>
+        </li>
+    </itemLevelRules>
+  </li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_AmethystSpear</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Staffs -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_AmethystStaff</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Wands -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_AmethystWand</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Warhammers -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_AmethystWarHammer</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_MeleeWeapon_Warhammer_Doyle</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_MeleeWeapon_Polehammer_Doyle</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Heavy Hauberk -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_Apparel_HeraldicHeavyHauberk_Doyle</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Heavy Full Plate -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_Apparel_HeraldicGildedFullPlate_Doyle</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Great Helm -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_Apparel_HeraldicGreatHelm_Doyle</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Heater Shield -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_HeraldicHeaterShield_Doyle</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+<!-- Necklace -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+  <itemLevelRules>
+      <li>
+          <thingDef>RF_Apparel_Necklace_Amethyst</thingDef>
+          <techLevelNoResearch>Neolithic</techLevelNoResearch>
+          <techLevelResearched>Neolithic</techLevelResearched>
+      </li>
+  </itemLevelRules>
+</li>
+
+    </operations>
+</Operation>
+
+</Patch>
