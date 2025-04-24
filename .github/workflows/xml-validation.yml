@@ -1,0 +1,31 @@
+name: Validate XML Files
+
+on:
+  pull_request:
+    paths:
+      - '**/*.xml' # Trigger only on .xml files
+
+jobs:
+  validate-xml:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Fetch full history to ensure all commits are available
+
+      - name: Install xmllint
+        run: sudo apt-get update && sudo apt-get install -y libxml2-utils
+
+      - name: Fetch the base branch
+        run: |
+          git fetch origin ${{ github.event.pull_request.base.ref }} # Ensure the base branch is fetched
+
+      - name: Validate XML files
+        run: |
+          # Find and validate all .xml files in the pull request
+          for file in $(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep '\.xml$'); do
+            echo "Validating $file..."
+            xmllint --noout "$file" || exit 1
+          done
