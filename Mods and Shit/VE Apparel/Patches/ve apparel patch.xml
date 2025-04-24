@@ -403,7 +403,7 @@
 			<thingDef>VAE_Apparel_TribalKilt</thingDef>
 			<techLevelNoResearch>Neolithic</techLevelNoResearch>
 			<techLevelResearched>Neolithic</techLevelResearched>
-		<li>
+		</li>
 	</itemLevelRules>
 </li>
 
