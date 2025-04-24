@@ -374,7 +374,38 @@
     </itemLevelRules>
 </li>
 
+<!-- Pelt Coat -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+	<itemLevelRules>
+		<li>
+			<thingDef>VAE_Apparel_PeltCoat</thingDef>
+			<techLevelNoResearch>Neolithic</techLevelNoResearch>
+			<techLevelResearched>Neolithic</techLevelResearched>
+		</li>
+	</itemLevelRules>
+</li>
 
+<!-- Tribal Poncho -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+	<itemLevelRules>
+		<li>
+			<thingDef>VAE_Apparel_TribalPoncho</thingDef>
+			<techLevelNoResearch>Neolithic</techLevelNoResearch>
+			<techLevelResearched>Neolithic</techLevelResearched>
+		</li>
+	</itemLevelRules>
+</li>
+
+<!-- Tribal Kilt-->
+<li Class="CTB_AT_EquipmentRestrictionsPatcher">
+	<itemLevelRules>
+		<li>
+			<thingDef>VAE_Apparel_TribalKilt</thingDef>
+			<techLevelNoResearch>Neolithic</techLevelNoResearch>
+			<techLevelResearched>Neolithic</techLevelResearched>
+		<li>
+	</itemLevelRules>
+</li>
 
     </operations>
 </Operation>

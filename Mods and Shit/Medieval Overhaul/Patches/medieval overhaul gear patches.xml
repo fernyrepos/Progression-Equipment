@@ -434,6 +434,17 @@
     </itemLevelRules>
 </li>
 
+<!-- Blacksmith's Hammer -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+	<itemLevelRules>
+		<li>
+			<thingDef>DankPyon_MeleeWeapon_BlacksmithHammer</thingDef>
+			<techLevelNoResearch>Neolithic</techLevelNoResearch>
+			<techLevelResearched>Neolithic</techLevelResearched>
+		</li>
+	</itemLevelRules>
+</li>
+
 <!-- Pickaxe -->
 <li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
     <itemLevelRules>
@@ -498,6 +509,17 @@
             <techLevelResearched>Neolithic</techLevelResearched>
         </li>
     </itemLevelRules>
+</li>
+
+<!-- Butcher's Cleaver -->
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
+	<itemLevelRules>
+		<li>
+			<thingDef>DankPyon_MeleeWeapon_ButcherCleaver</thingDef>
+			<techLevelNoResearch>Neolithic</techLevelNoResearch>
+			<techLevelResearched>Neolithic</techLevelResearched>
+		</li>
+	</itemLevelRules>
 </li>
 
 <!-- Hatchet -->
