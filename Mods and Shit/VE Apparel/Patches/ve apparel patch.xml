@@ -397,7 +397,7 @@
 </li>
 
 <!-- Tribal Kilt-->
-<li Class="CTB_AT_EquipmentRestrictionsPatcher">
+<li Class="CTB_AT_Equipment.EquipmentRestrictionsPatcher">
 	<itemLevelRules>
 		<li>
 			<thingDef>VAE_Apparel_TribalKilt</thingDef>
