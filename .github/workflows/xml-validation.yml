@@ -25,7 +25,7 @@ jobs:
       - name: Validate XML files
         run: |
           # Find and validate all .xml files in the pull request
-          for file in $(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep '\.xml$'); do
+          git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep '\.xml$' | while read -r file; do
             echo "Validating $file..."
             xmllint --noout "$file" || exit 1
           done
