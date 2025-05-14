@@ -76,5 +76,6 @@
     <li IfModActive="turkler.medievaloverhaul.arcanearchaeologists">Mods and Shit/Arcane Archaeologists</li>
     <li IfModActive="finch.blood">Mods and Shit/House Sanguine</li>
     <li IfModActive="BotchJob.Profaned">Mods and Shit/Profaned</li>
+    <li IfModActive="biomesteam.biomescore">Mods and Shit/Biomes Core</li>
   </v1.5>
 </loadFolders>
